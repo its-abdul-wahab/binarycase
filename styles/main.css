@@ -13,9 +13,9 @@ haader nav a .navbar-brand-img
 {
   width: 110px;
 }
-.navbar-brand img:hover
+.navbar-brand img
 {
-  width: 150px;
+  width: 110px;
 }
 
 .navbar:not(.top-nav-collapse) {
