@@ -59,8 +59,7 @@
 
 /* #3d Flip Rotate Logo  */
 .boxLogo
-    {
-      
+    {  
       top: calc(50% - 200px);
       left: calc(50% - 150px);
       width: 70px;
@@ -93,7 +92,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background: url("C:/Users/Abdullah Akbar/Desktop/Professional Logo/BinaryCase7.png");
+      background: url("img/BinaryCase7.png");
       background-size: 100%; /* to display image all in the specific width of an element like div etc */
       transform:  translateZ(25px);  /* move image in Z direction or front */
     }
@@ -104,7 +103,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background: url("C:/Users/Abdullah Akbar/Desktop/Professional Logo/BinaryCase5.png");
+      background: url("img/BinaryCase5.png");
       background-size: 100%; /* to display image all in the specific width of an element like div etc */
       transform:  translateZ(-25px) rotateY(180deg);;
     }
